@@ -1,5 +1,7 @@
 # Palestine Stickers
 
+<img src="./public/header.svg">
+
 Visit [palestinestickers.com](https://palestinestickers.com) to view this site.
 
 ## Getting Started
