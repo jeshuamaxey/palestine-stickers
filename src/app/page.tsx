@@ -32,13 +32,17 @@ const HomePage = () => {
 
 
         <p>
-          We have released a set of 7 stickers of classic sports brand reimagined to express messages of solidarity for the Palestinian cause. Stock is limited so get them while they last. Only available to ship to mainland UK.
+          We have released a set of 7 stickers of classic sports brands reimagined to express messages of solidarity for the Palestinian cause. Stock is limited so get them while they last. Only available to ship to mainland UK.
         </p>
 
         <Image src="/solidarity-stickers.png" alt="Solidarity Stickers" width={2048} height={2048} />
 
         <p>
           All proceeds go to <Link className="hover:underline text-green-600" href="https://www.map.org.uk/">Medical Aid for Palestinians</Link> who work for the health and dignity of Palestinians living under occupation and as refugees.
+        </p>
+
+        <p>
+          The pack of 7 stickers is has a recommended price of £15.00 (min £10.00), but we ask you to please pay what you can afford. Postage is included.
         </p>
 
         <BuyButton />
