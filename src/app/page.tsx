@@ -4,7 +4,7 @@ import Image from 'next/image';
 import BuyButton from './BuyButton';
 
 export const metadata: Metadata = {
-  title: 'Solidarity Stickers',
+  title: 'Palestine stickers',
   description: '7 stickers of classic sports brand reimagined to express messages of solidarity for the Palestinian cause. ALL PROFITS GO TO MEDICAL AID TO PALESTINIANS.',
   openGraph: {
     images: [
