@@ -23,7 +23,7 @@ const HomePage = () => {
   return (
     <main className="w-full min-h-screen">
 
-      <div className="px-6 py-12 md:px-32 lg:px-64 grid grid-cols-1 gap-4 container mx-auto">
+      <div className="px-6 py-12 md:px-32 lg:px-64 grid grid-cols-1 gap-8 container mx-auto">
         <h1 className="text-4xl font-black">Palestine stickers</h1>
 
         <div className="border-1 border-black">
@@ -32,7 +32,7 @@ const HomePage = () => {
 
 
         <p>
-          We have released a set of 7 stickers of classic sports brand reimagined to express messages of solidarity for the Palestinian cause. Stock is limited so get them while they last.
+          We have released a set of 7 stickers of classic sports brand reimagined to express messages of solidarity for the Palestinian cause. Stock is limited so get them while they last. Only available to ship to mainland UK.
         </p>
 
         <Image src="/solidarity-stickers.png" alt="Solidarity Stickers" width={2048} height={2048} />
