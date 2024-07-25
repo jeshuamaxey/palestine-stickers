@@ -1,6 +1,6 @@
 # Palestine Stickers
 
-Visit palestinestickers.com to view this site.
+Visit [palestinestickers.com] to view this site.
 
 ## Getting Started
 
